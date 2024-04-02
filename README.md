@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Muhammad Kumail Abbas
-- 👀 I’m interested in Software Quality Engineer
+- 👀 I’m interested in Software Quality Assurance @ Testing
 - 🌱 I’m currently doing my bachelors (Final year) in Conputer Science
 - 📫 You can reach me through my email:- kumaildps@gmail.com
 
