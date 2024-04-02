@@ -1,5 +1,5 @@
 -  Hi, I'm Muhammad Kumail Abbas
--  I’m interested in Software Quality Assurance @ Testing
+-  I’m interested in Software Quality Assurance & Testing
 -  I'm fresh, junior java spring boot developer
 -  I also worked as junior python developer
 -  I’m currently doing my bachelors (Final year) in Conputer Science
